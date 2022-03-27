@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Stefan Andjelkovic's personal website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Stefan Andjelkovic"
+description              : &description "I'm a 4th year PhD student in joint Carnegie Mellon University and University of Pittsburgh [PhD program in Computational Biology](https://compbio.pitt.edu), in [MeLoDy Lab](https://www.nmzlab.pitt.edu/). I specialize in automation of biological network model assembly. My research aims to develop new "third wave AI" by integrating data and expert knowledge in an interpretable way to generate new hypotheses and encourage future research. I am applying classical machine learning techniques to process historical/experimental data, NLP methods to infer knowledge from text, and simulation to study dynamics. The systems I am studying include (but are not limited to) cell signaling pathways (relevant for cancer), human brain motor cortex connectivity, and pandemic management."
+url                      : https://stefan-andjelkovic-pitt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Stefan-Andjelkovic-Pitt/stefan-andjelkovic-pitt.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Stefan Andjelkovic"
+  avatar           : "stefan_square_profile_pic.jpg"
+  bio              : "I'm a 4th year PhD student in joint Carnegie Mellon University and University of Pittsburgh PhD program in Computational Biology"
+  location         : "Pittsburgh, PA, USA"
+  employer         : "University of Pittsburgh"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=3S4hKbkAAAAJ"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Stefan-Andjelkovic-Pitt"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-0917-283X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "StefanA80648338"
   vine             :
   weibo            :
   xing             :
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
