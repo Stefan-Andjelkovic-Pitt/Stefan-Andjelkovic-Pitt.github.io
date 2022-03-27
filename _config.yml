@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Stefan Andjelkovic"
-  avatar           : "images/stefan_square_profile_pic.jpg"
+  avatar           : "stefan_square_profile_pic.jpg"
   bio              : "I'm a 4th year PhD student in joint Carnegie Mellon University and University of Pittsburgh PhD program in Computational Biology"
   location         : "Pittsburgh, PA, USA"
   employer         : "University of Pittsburgh"
