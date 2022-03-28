@@ -1,10 +1,10 @@
 ---
-title: "Cell & Systems Modeling"
+title: "CMPBIO/MSCBIO 2040: Cell & Systems Modeling"
 collection: CMU/Pitt teaching
 type: "Graduate course"
-permalink: /CMPBIO/MSCBIO 2040: Cell & Systems Modeling: https://sites.google.com/site/cellandsystemsmodeling/home
+permalink: /teaching/Cell_and_Systems_Modeling_S2020.md
 venue: "University of Pittsburgh, Computational ans Systems Biology Department"
-date: 2020-01-09
+date: Spring Term 2020
 location: "Pittsburgh, PA, USA"
 ---
 
