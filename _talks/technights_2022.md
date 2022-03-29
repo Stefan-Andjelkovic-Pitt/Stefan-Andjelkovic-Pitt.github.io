@@ -3,7 +3,7 @@ title: "Astrobiological simulation: Make your own galaxy!"
 collection: talks
 type: "Outreach"
 permalink: /talks/technights_2022
-venue: "UC San Francisco, Department of Testing"
+venue: "TechNights, School of Computer Science, Carnegie Mellon University"
 date: 2022-03-28
 location: "Pittsburgh, PA, USA"
 ---
