@@ -4,7 +4,7 @@ collection: teaching
 type: "Advanced class"
 permalink: /teaching/NAOC_Astronomy
 venue: "National Astronomical Olympic Committee of Serbia"
-date: November 2012 - August 2015
+date: 2012-11-01
 location: "Belgrade, SERBIA"
 ---
 
