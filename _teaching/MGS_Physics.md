@@ -4,7 +4,7 @@ collection: teaching
 type: "Advanced class"
 permalink: /teaching/MGS_Physics
 venue: "Mathematical Grammar School"
-date: October 2013 - May 2014
+<!-- date: October 2013 - May 2014 -->
 location: "Belgrade, SERBIA"
 ---
 
