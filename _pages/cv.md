@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Theoretical and Experimental Physics, University of Belgrade, 2015
-* M.A.St. in Physics, University of Cambridge, 2016
-* Ph.D in Computational Biology, Carnegie Mellon University & University of Pittsburgh, 2023 (expected)
+* [B.S. in Theoretical and Experimental Physics](http://www.ff.bg.ac.rs/Engleski/Undergraduate/Theoretica.html), University of Belgrade, 2015
+* [M.A.St. in Physics](https://www.phy.cam.ac.uk/admissions/postgraduate/degreesoffered/mastinphysics), University of Cambridge, 2016
+* [Ph.D in Computational Biology](https://bit.ly/cpcb-phd), Carnegie Mellon University & University of Pittsburgh, 2023 (expected)
 
 Work experience
 ======
