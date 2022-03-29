@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Here](https://github.com/Stefan-Andjelkovic-Pitt/stefan-andjelkovic-pitt.github.io/raw/master/files/Andjelkovic_Stefan_Resume_2022.pdf) you can access my 1-pager résumé.
+
 Education
 ======
 * B.S. in Theoretical and Experimental Physics, University of Belgrade, 2015
@@ -49,12 +51,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages: Python, C, C++
+* Platforms: Linux, macOS, Windows
+* Machine Learning and Deep Learning: Scikit-learn, PyTorch (preferred), Tensorflow, Keras
+* NLP: NLTK, Spacy, Transformers (BERT)
+* Genomics: GATK, SAMtools, BCFtools, Bedtools, BWA-MEM, somatic variant callers, IGV
+* Structural biology: PyMOL, mdtraj, ProDy, VMD
 
 Publications
 ======
@@ -76,12 +78,12 @@ Teaching
   
 Service and leadership
 ======
-* CPCB GSA
+* [CPCB GSA](http://www.compbio.cmu.edu/people/committees/)
   * Student Seminar coordinator (2021/22)
   * Treasurer (2020/21)
   * Senator (2019/20)
   * BGSA Student Representative (2018/19)
-* CPCB Curriculum Committee Student Representative (2019-present)
+* [CPCB Curriculum Committee](http://www.compbio.cmu.edu/people/committees/) Student Representative (2019-present)
 * National Olympic Astronomical Committee of Serbia
   * Serbian National Astronomy Olympic Team Leader at International Olympiad on Astronomy and Astrophysics in 2015 and 2016
-* TechNights outreach program - guest talk and workshop
+* [TechNights](https://www.cmu.edu/scs/technights/index.html) outreach program - guest talk and workshop
