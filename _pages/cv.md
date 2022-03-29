@@ -17,15 +17,35 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2015 - present: Graduate Student Researcher
+  * University of Pittsburgh, Pittsburgh, PA, USA
+  * Duties included: Research, lead the interventions modeling working group in the [World Modelers](https://www.darpa.mil/program/world-modelers) project, lab git repo maintenance, peer review
+  * Research projects:
+    * Discrete modeling of Ras signaling pathways for optimizing cancer treatments
+    * Intervention modeling on causal graphs for resolving complex challenges, case study: Children malnutrition in Ethiopia
+    * Quantitative information extraction from unstructured text for automated executable network model building (NLU)
+    * Text mining of literature on transcranial magnetic stimulation (TMS) experiments for understanding the dynamics of human motor cortex circuitry
+  * Supervisor: Dr. Natasa Miskov-Zivanov
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2018 - Aug 2018: Bioinformatics Engineer
+  * Persida, Belgrade, SERBIA
+  * Duties included: software development for mutation annotation, text mining and web interface development for our tool
+  * Supervisor: Aleksandar Mihajlovic
+
+* Aug 2016 - Jun 2017: Bioinformatics Analyst
+  * Seven Bridges Genomics, Belgrade, SERBIA
+  * Duties included: bioinformatics tools wrapping, genomics analysis pipeline building and automation, cell free DNA (cfDNA) analyses
+  * Supervisor: Stefan Risteski, Sanja Mijalkovic
+
+* Jun 2014 - Aug 2014: Summer Student
+  * CERN, Geneva, SWITZERLAND
+  * Duties included: development of a statistical method for estimation of theoretical uncertainties in top quark production processes
+  * Supervisor: Dr. Francesco Spano
+
+* Jun 2013 - Aug 2013: Summer Research Intern
+  * Weizmann Institute, Rehovot, ISRAEL
+  * Duties included: data collection and curation in interactive [WISeREP](https://www.wiserep.org) database, cross-analysis of spectroscopic and photometric observations of Supernovae type IIn
+  * Supervisor: Dr. Francesco Spano
   
 Skills
 ======
@@ -56,4 +76,12 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* CPCB GSA
+  * Student Seminar coordinator (2021/22)
+  * Treasurer (2020/21)
+  * Senator (2019/20)
+  * BGSA Student Representative (2018/19)
+* CPCB Curriculum Committee Student Representative (2019-present)
+* National Olympic Astronomical Committee of Serbia
+  * Serbian National Astronomy Olympic Team Leader at International Olympiad on Astronomy and Astrophysics in 2015 and 2016
+* TechNights outreach program - guest talk and workshop
