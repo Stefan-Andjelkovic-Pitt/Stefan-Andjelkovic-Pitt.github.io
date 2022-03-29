@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/Cell_and_Systems_Modeling_S2020
 venue: "University of Pittsburgh, Computational and Systems Biology Department"
-date: Spring Term 2020
+date: 2020
 location: "Pittsburgh, PA, USA"
 ---
 
