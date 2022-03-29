@@ -4,7 +4,7 @@ collection: PSC
 type: "Science camp"
 permalink: /teaching/PSC_Astronomy
 venue: "Petnica Science Center, Physics Dept."
-date: January 2013 - August 2015
+date: 2013-01-01
 location: "Petnica, SERBIA"
 ---
 
