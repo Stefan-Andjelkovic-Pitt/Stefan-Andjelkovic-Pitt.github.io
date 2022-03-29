@@ -1,6 +1,6 @@
 ---
 title: "MGS Advanced Physics Lectures"
-collection: MGS
+collection: teaching
 type: "Advanced class"
 permalink: /teaching/MGS_Physics
 venue: "Mathematical Grammar School"
