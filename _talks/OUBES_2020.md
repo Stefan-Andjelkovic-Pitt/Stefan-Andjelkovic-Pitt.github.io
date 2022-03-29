@@ -8,4 +8,4 @@ date: 2020-11-18
 location: "Oxford, UK"
 ---
 
-An invited (remote) talk on how with physics background I ended up in systems biology, with comparisons between industry and academia. The slide deck is available [here](/OUBES_talk_Stefan.pdf)
+An invited (remote) talk on how with physics background I ended up in systems biology, with comparisons between industry and academia. The slide deck is available [here](https://stefan-andjelkovic-pitt.github.io/_talks/OUBES_talk_Stefan.pdf)
