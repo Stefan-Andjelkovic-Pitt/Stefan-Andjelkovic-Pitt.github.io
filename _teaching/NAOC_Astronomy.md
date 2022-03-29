@@ -1,6 +1,6 @@
 ---
 title: "NAOC Advanced Physics Lectures"
-collection: NAOC
+collection: teaching
 type: "Advanced class"
 permalink: /teaching/NAOC_Astronomy
 venue: "National Astronomical Olympic Committee of Serbia"
