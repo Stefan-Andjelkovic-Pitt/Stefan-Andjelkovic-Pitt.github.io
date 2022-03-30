@@ -8,4 +8,6 @@ date: 2016-10-01
 location: "Petnica, SERBIA"
 ---
 
-Teaching advanced physics and supervision of high school students' research projects
+Teaching advanced physics and supervision of high school students' research projects.
+
+![PSC Physics seminar](https://stefan-andjelkovic-pitt.github.io/images/PSC_Physics.jpg)
