@@ -9,3 +9,5 @@ location: "Petnica, SERBIA"
 ---
 
 Teaching advanced physics and supervision of high school students' research projects
+
+![PSC_AST](https://stefan-andjelkovic-pitt.github.io/images/PSC_AST.jpg)
