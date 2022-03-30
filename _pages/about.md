@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Stefan Andjelkovic's personal website"
+title: "Stefan's personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
