@@ -27,7 +27,7 @@ Work experience
     * Intervention modeling on causal graphs for resolving complex challenges, case study: Children malnutrition in Ethiopia
     * Quantitative information extraction from unstructured text for automated executable network model building (NLU)
     * Text mining of literature on transcranial magnetic stimulation (TMS) experiments for understanding the dynamics of human motor cortex circuitry
-  * Supervisor: Dr. Natasa Miskov-Zivanov
+  * Advisor: Dr. Natasa Miskov-Zivanov
 
 * Feb 2018 - Aug 2018: Bioinformatics Engineer
   * [Persida](https://www.persida-bio.com/), Belgrade, SERBIA
@@ -78,12 +78,13 @@ Teaching
   
 Service and leadership
 ======
+* [TechNights](https://www.cmu.edu/scs/technights/index.html) outreach program - guest talk and workshop
 * [CPCB GSA](http://www.compbio.cmu.edu/people/committees/)
   * Student Seminar coordinator (2021/22)
   * Treasurer (2020/21)
   * Senator (2019/20)
   * BGSA Student Representative (2018/19)
 * [CPCB Curriculum Committee](http://www.compbio.cmu.edu/people/committees/) Student Representative (2019-present)
+* [PEXIM Foundation](http://www.peximfoundation.org/) - Alumnus, actively volunteering in PEXIM events, and serving in the PEXIM-Cambridge Scholarship selection process
 * National Olympic Astronomical Committee of Serbia
   * Serbian National Astronomy Olympic Team Leader at International Olympiad on Astronomy and Astrophysics in 2015 and 2016
-* [TechNights](https://www.cmu.edu/scs/technights/index.html) outreach program - guest talk and workshop
