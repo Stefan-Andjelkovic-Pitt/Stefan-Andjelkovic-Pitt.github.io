@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Stefan Andjelkovic's personal website"
+title                    : "Stefan's personal website"
 title_separator          : "-"
 name                     : &name "Stefan Andjelkovic"
 description              : &description "I'm a 4th year PhD student in joint Carnegie Mellon University and University of Pittsburgh PhD program in Computational Biology, in MeLoDy Lab. I specialize in automation of biological network model assembly. My research aims to develop third wave AI by integrating data and expert knowledge in an interpretable way to generate new hypotheses and encourage future research. I am applying classical machine learning techniques to process historical/experimental data, NLP methods to infer knowledge from text, and simulation to study dynamics. The systems I am studying include (but are not limited to) cell signaling pathways (relevant for cancer), human brain motor cortex connectivity, and pandemic management."
