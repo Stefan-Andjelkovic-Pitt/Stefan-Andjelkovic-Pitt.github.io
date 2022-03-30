@@ -1,5 +1,5 @@
 ---
-title: "NAOC Advanced Physics Lectures"
+title: "NAOC Astronomy Lectures"
 collection: teaching
 type: "Advanced class"
 permalink: /teaching/NAOC_Astronomy
