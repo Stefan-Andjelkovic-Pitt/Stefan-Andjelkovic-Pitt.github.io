@@ -30,24 +30,24 @@ Work experience
   * Supervisor: Dr. Natasa Miskov-Zivanov
 
 * Feb 2018 - Aug 2018: Bioinformatics Engineer
-  * Persida, Belgrade, SERBIA
+  * [Persida](https://www.persida-bio.com/), Belgrade, SERBIA
   * Duties included: software development for mutation annotation, text mining and web interface development for our tool
   * Supervisor: Aleksandar Mihajlovic
 
 * Aug 2016 - Jun 2017: Bioinformatics Analyst
-  * Seven Bridges Genomics, Belgrade, SERBIA
+  * [Seven Bridges Genomics](https://www.sevenbridges.com/), Belgrade, SERBIA
   * Duties included: bioinformatics tools wrapping, genomics analysis pipeline building and automation, cell free DNA (cfDNA) analyses
   * Supervisor: Stefan Risteski, Sanja Mijalkovic
 
 * Jun 2014 - Aug 2014: Summer Student
-  * CERN, Geneva, SWITZERLAND
-  * Duties included: development of a statistical method for estimation of theoretical uncertainties in top quark production processes
+  * [CERN](https://home.cern/), Geneva, SWITZERLAND
+  * Duties included: development of a statistical method for estimation of theoretical uncertainties in top quark production processes ([ATLAS experiment](https://atlas.cern/))
   * Supervisor: Dr. Francesco Spano
 
 * Jun 2013 - Aug 2013: Summer Research Intern
-  * Weizmann Institute, Rehovot, ISRAEL
+  * [Weizmann Institute](https://www.weizmann.ac.il/particle/), Rehovot, ISRAEL
   * Duties included: data collection and curation in interactive [WISeREP](https://www.wiserep.org) database, cross-analysis of spectroscopic and photometric observations of Supernovae type IIn
-  * Supervisor: Dr. Francesco Spano
+  * Supervisor: Dr. Avishay Gal-Yam
   
 Skills
 ======
