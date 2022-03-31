@@ -12,14 +12,11 @@ Hi! I'm Stefan Andjelkovic, a 4th year PhD student in [Joint Carnegie Mellon Uni
 
 Research interests
 ======
-- ML
-- NLP
-- Graphs
-- Simulation
+- Graphical models
 - Systems Biology
-- Genomics
-- Drug Discovery
 - Neuroscience
+- NLP
+- Simulation
 
 
 
