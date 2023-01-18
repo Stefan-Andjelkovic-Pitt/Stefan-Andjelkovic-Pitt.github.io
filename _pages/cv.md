@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* Aug 2015 - present: Graduate Student Researcher
+* Aug 2018 - present: Graduate Student Researcher
   * University of Pittsburgh, Pittsburgh, PA, USA
   * Duties included: Research, lead the interventions modeling working group in the [World Modelers](https://www.darpa.mil/program/world-modelers) project, lab git repo maintenance, peer review
   * Research projects:
