@@ -13,7 +13,7 @@ Hi! I'm Stefan Andjelkovic, a 5th year PhD student in the [Joint Carnegie Mellon
 Research interests
 ======
 - Graphical models
-- Cancer Genomics
+- Cancer genomics
 - Neuroscience
 - NLP
 - Simulation
