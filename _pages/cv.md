@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Here](https://stefan-andjelkovic-pitt.github.io/files/Andjelkovic_Stefan_Resume_2022.pdf) you can access my 1-pager résumé.
+[Here](https://stefan-andjelkovic-pitt.github.io/files/Stefan_Resume_2023.pdf) you can access my 1-pager résumé.
 
 Education
 ======
